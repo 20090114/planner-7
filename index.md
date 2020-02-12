@@ -14,14 +14,14 @@
 | Civics/Econ: Mr. Carlson    | None                                                       |
 | Biology: Mrs. Fries         | None                                                       |
 |                             |                                                            |
-|**Class: Wednesday**         |**Assignment**                                              |
+|**Class: thursday**         |**Assignment**                                              |
 | Geometry: Mr. Inman         | None                                                       |
-| Concert Band: Mr. Bharttari | Chair Tests on Mon. Tues. and Weds.                        |
+| Concert Band: Mr. Bharttari | Chair Tests on Mon.                         |
 | English 9: Mrs. Bloomer     | None                                                       |
-| Civics/Econ: Mr. Carlson    | Working on Unit - 3 Review                                 |
-| Biology: Mrs. Fries         | Exam Today and Tomorrow                                    |
+| Civics/Econ: Mr. Carlson    | demand portion due tommorow                                 |
+| Biology: Mrs. Fries         | none                                    |
 |                             |                                                            |
-|**Class: Thursday**          |**Assignment**                                              |
+|**Class: wednesday**          |**Assignment**                                              |
 | Geometry: Mr. Inman         | 7 rtgo due tomorrow.                               |
 | Concert Band: Mr. Bharttari | chair tests at least mon                                                      |
 | English 9: Mrs. Bloomer     | none               |
