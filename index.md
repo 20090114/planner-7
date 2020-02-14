@@ -29,8 +29,8 @@
 | Biology: Mrs. Fries         | none                                                |
 |                             |                                                            |
 |**Class: Friday**            |**Assignment**                                              |
-| Geometry: Mr. Inman         | Lesson 9-6 Notes and 9-5 worksheet due Jan 6 2020          |
-| Concert Band: Mr. Bharttari | Movie                                                      |
+| Geometry: Mr. Inman         | none          |
+| Concert Band: Mr. Bharttari | none                                                      |
 | English 9: Mrs. Bloomer     | None                                                       |
-| Civics/Econ: Mr. Carlson    | Enjoy the Holidays!                                        |
-| Biology: Mrs. Fries         | Movie                                                      |
+| Civics/Econ: Mr. Carlson    | none                                        |
+| Biology: Mrs. Fries         | none                                                      |
